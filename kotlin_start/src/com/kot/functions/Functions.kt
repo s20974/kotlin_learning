@@ -1,4 +1,4 @@
-package com.kot
+package com.kot.functions
 
 fun main(){
     println(max(5, 10))

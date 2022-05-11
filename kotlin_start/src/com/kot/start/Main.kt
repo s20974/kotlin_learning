@@ -1,4 +1,4 @@
-package com.kot
+package com.kot.start
 
 //private var name: String = null
 private var testNullable: String? = null
