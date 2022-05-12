@@ -1,4 +1,4 @@
-package com.kot.functions
+package com.kot.collections
 
 fun main() {
     val array = (0..50).toList()
